@@ -117,6 +117,13 @@ Parameters:
     Label:
       en: Web Password
       zh-cn: Web访问密码
+    ConstraintDescription:
+      en: Length 6-30, must contain three(Capital letters, lowercase letters, numbers, ()`~!@#$%^&*_-+=|{}[]:;'<>,.?/ Special symbol in)
+      zh-cn: 长度6-30，必须包含三项（大写字母、小写字母、数字、 ()`~!@#$%^&*_-+=|{}[]:;'<>,.?/ 中的特殊符号）
+    MinLength: 6
+    MaxLength: 30
+    AllowedPattern: '^[a-zA-Z0-9-\(\)\`\~\!\@\#\$\%\^\&\*\_\-\+\=\|\{\}\[\]\:\;\<\>\,\.\?\/]*$'
+    AssociationProperty: ALIYUN::ECS::Instance::Password
 Resources:
   SecurityGroup:
     Type: ALIYUN::ECS::SecurityGroup
