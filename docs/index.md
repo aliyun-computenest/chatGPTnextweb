@@ -1,7 +1,7 @@
 # ChatGPT Next Web 社区版快速部署
 
 ## 概述
-一键部署您的跨平台ChatGPT应用，支持完整的Markdown、LaTex公式、Mermaid流程图等。界面美观，响应迅速，兼容深色模式和PWA，快速加载，数据隐私安全。功能丰富，方便创建、分享个性化对话，内含海量中英文prompt，自动压缩聊天记录，支持多国语言。。详情请查看[ChatGPT Next Web官网](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)。
+一键部署您的跨平台ChatGPT应用，支持完整的Markdown、LaTex公式、Mermaid流程图等。界面美观，响应迅速，兼容深色模式和PWA，快速加载，数据隐私安全。功能丰富，方便创建、分享个性化对话，内含海量中英文prompt，自动压缩聊天记录，支持多国语言。详情请查看[ChatGPT Next Web官网](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)。
 
 ## 计费说明
 ChatGPT Next Web 社区版上的费用主要涉及：
