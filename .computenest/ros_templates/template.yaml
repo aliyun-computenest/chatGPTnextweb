@@ -140,7 +140,7 @@ Resources:
           NicType: internet
         - PortRange: 3000/3000
           Priority: 1
-          SourceCidrIp: 0.0.0.0/0
+          SourceCidrIp: 100.104.0.0/16
           IpProtocol: tcp
           NicType: internet
   InstanceGroup:
