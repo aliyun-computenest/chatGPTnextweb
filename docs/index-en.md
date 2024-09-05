@@ -49,12 +49,12 @@
 <h2> Deployment process </h2>
 
 <p>1. Visit the ChatGPT Next Web Community Service <a href = "https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-f1c9b75e59814dc49d52"> Deployment link </a> and fill in the deployment parameters as prompted:
-<img src="1.jpg" alt="image.png" /></p>
+<img src="en_1.jpg" alt="image.png" /></p>
 
 <p>2. After completing the parameters, you can see the corresponding inquiry details. After confirming the parameters, click <strong> Next: Confirm Order </strong>. Confirm that the order is complete and agree to the service agreement and click <strong> Create Now </strong> to proceed to the deployment phase. </p>
 
 <p>4. After the deployment is completed, enter the service instance management and find the ChatGPT Next Web service access link in the console.
-<img src="2.jpg" alt="image.png" /></p>
+<img src="en_2.jpg" alt="image.png" /></p>
 
 <p>5. Click the link to access the service.
-<img src="3.jpg" alt="image.png" /></p>
+<img src="en_3.jpg" alt="image.png" /></p>
